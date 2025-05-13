@@ -6,7 +6,7 @@ address:
 dw 2
 dw 0
 
-; that's the IP address (four next bytes)
+; that's the IP address (next four bytes)
 db 8
 db 8
 db 8
